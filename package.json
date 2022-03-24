@@ -13,6 +13,7 @@
   "dependencies": {
     "ant-design-vue": "^2.0.0-beta.10",
     "core-js": "^3.6.5",
+    "pe-ui": "^0.1.1",
     "vue": "^3.0.0"
   },
   "devDependencies": {

@@ -1,11 +1,7 @@
 <template>
   <div style="padding-left:20px">
     <br>
-    <Button></Button>
-    <br>
-    <Icon></Icon>
-    <br>
-    <Modal></Modal>
+    A
   </div>
 </template>
 

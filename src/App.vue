@@ -1,7 +1,7 @@
 <template>
   <div style="padding-left:20px">
     <br>
-    A
+    B
   </div>
 </template>
 
